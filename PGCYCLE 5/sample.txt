@@ -1,0 +1,5 @@
+0.python is a high level , general purpose programming launguage
+1. Its language constructs and object-oriented approach aim to help programmers write clear.
+2. Python is dynamically typed and garbage-collected.
+3.Python supports modules and packages, which encourages program modularity and code reuse.
+4.Python has a simple syntax similar to the English language. 

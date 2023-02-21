@@ -1,0 +1,2 @@
+1. Its language constructs and object-oriented approach aim to help programmers write clear.
+3.Python supports modules and packages, which encourages program modularity and code reuse.
